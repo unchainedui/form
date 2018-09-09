@@ -1,0 +1,31 @@
+{
+  "name": "uc-form",
+  "version": "1.0.0",
+  "description": "Form mixin for custom forms with tab key navigation support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedui/form.git"
+  },
+  "keywords": [
+    "unchained",
+    "ui",
+    "browser",
+    "form",
+    "kiss"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainedui/form/issues"
+  },
+  "homepage": "https://github.com/unchainedui/form#readme",
+  "dependencies": {
+    "uc-dom": "^1.4.0",
+    "uc-flow": "^1.0.0",
+    "uc-strings": "^1.0.0"
+  }
+}
